@@ -1,6 +1,5 @@
 // alert("Hello, world!");
-// TEST ALERT (only used for early debugging)
-// alert("Hello, world!");
+
 
 function makeBigger() {
 	let textArea = document.getElementById("textArea");
@@ -8,7 +7,7 @@ function makeBigger() {
 	// Make text larger
 	textArea.style.fontSize = "24pt";
 
-	alert("Hello, world!");
+	// alert("Hello, world!");
 }
 
 function applyFancy() {
