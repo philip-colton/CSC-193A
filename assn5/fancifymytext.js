@@ -7,7 +7,7 @@ function makeBigger() {
 	// Make text larger
 	textArea.style.fontSize = "24pt";
 
-	// alert("Hello, world!");
+	alert("Hello, world!");
 }
 
 function applyFancy() {
